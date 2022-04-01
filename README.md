@@ -4,4 +4,5 @@ Collection of all my mini-projects done for getting an hands-on experience in HT
 - [Tic-Tac-Toe Game](https://ruchip16.github.io/csb-hubkw/)
 - [Instagram Clone - Reactjs & NextJs](https://github.com/Ruchip16/Insta-Clone)
 - [Resume Builder - Ruby On Rails ](https://ruchi-resume.herokuapp.com/)
+- [GenMoney](https://github.com/Ruchip16/Zeta-Hacks-3.0)
 - [Online Event Manager](https://github.com/Ruchip16/Online-event-manager-)
