@@ -2,5 +2,5 @@
 Collection of all my mini-projects done for getting an hands-on experience in HTML, CSS, Javascript and ReactJs
 
 - [Tic-Tac-Toe Game](https://ruchip16.github.io/csb-hubkw/)
-- [Instagram Clone - Reactjs & NextJs](csb-xie9h-lezrysz5z-ruchip16.vercel.app/)
+- [Instagram Clone - Reactjs & NextJs](https://github.com/Ruchip16/Insta-Clone)
 - [Resume Builder - Ruby On Rails ](https://ruchi-resume.herokuapp.com/)
